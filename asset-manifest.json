@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barcode-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/barcode-react/static/js/main.9f56d037.chunk.js",
+    "main.js.map": "/barcode-react/static/js/main.9f56d037.chunk.js.map",
+    "runtime~main.js": "/barcode-react/static/js/runtime~main.8955b5bc.js",
+    "runtime~main.js.map": "/barcode-react/static/js/runtime~main.8955b5bc.js.map",
+    "static/js/2.47b05639.chunk.js": "/barcode-react/static/js/2.47b05639.chunk.js",
+    "static/js/2.47b05639.chunk.js.map": "/barcode-react/static/js/2.47b05639.chunk.js.map",
+    "index.html": "/barcode-react/index.html",
+    "precache-manifest.06b53f02dde05827dc66ff14db9ad04f.js": "/barcode-react/precache-manifest.06b53f02dde05827dc66ff14db9ad04f.js",
+    "service-worker.js": "/barcode-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/barcode-react/static/css/main.2cce8147.chunk.css.map"
+  }
+}
