@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'THSarabunNew-R';
+    font-style: normal;
+    src: local('THSarabunNew-R'), url(../fonts/THSarabunNew.ttf) format('woff2');
+}
+
+@font-face {
+    font-family: 'THSarabunNew-B';
+    font-style: bold;
+    src: local('THSarabunNew-B'), url(../fonts/THSarabunNew-Bold.ttf) format('woff2');
+}
+body {
+    font-family: 'THSarabunNew-R';
+    font-size: 20px;
+}
+
+ul.breadcrumb {
+    font-family: 'THSarabunNew-R';
+    font-size: 20px;
+}
+
+.navbar-inverse .navbar-brand{
+    font-family: 'THSarabunNew-B';
+    font-size: 30px;
+    margin-top: -6px;
+}
+legend {
+    font-family: 'THSarabunNew-B';
+    font-size: 26px;
+}
+
+h1, .error-details{
+    font-family: 'THSarabunNew-B';
+    font-size: 36px; 
+}
+
+h2{
+    font-family: 'THSarabunNew-B';
+    font-size: 30px;
+}
+
+h3,.error-actions{
+    font-family: 'THSarabunNew-B';
+    font-size: 26px;
+}
+
+h4{
+    font-family: 'THSarabunNew-B';
+    font-size: 20px;
+}
+
+h5{
+    font-family: 'THSarabunNew-R';
+    font-size: 18px;
+}
+
+label.control-label,.col-form-label {
+    font-family: 'THSarabunNew-B';
+    font-size: 20px;
+}
+
+nav.navbar.navbar-inverse,
+.form-control,button.btn,.input-group{
+    font-family: 'THSarabunNew-R';
+    font-size: 20px;
+}
+
+.footer{
+    font-family: 'THSarabunNew-R';
+    font-size: 20px;
+}
+
+.has-error .help-block{
+    font-size: 20px;
+}
+
+b.footerName{
+    color:#008cba;
+}
+
+.form-control,.form-group {
+    font-family: 'Font Awesome 5 Free','THSarabunNew-R';
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.fa, .fas{
+    font-family: 'Font Awesome 5 Free','THSarabunNew-B';
+   
+}
+
+label{
+    font-family: 'Font Awesome 5 Free','THSarabunNew-B';
+    font-size: 16px;
+}
+
