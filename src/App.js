@@ -652,7 +652,7 @@ class App extends Component {
     return (
       <div className="container">
         <div className="card border-primary mb-3">
-          <div className="card-header">ปริ้นสติ๊กเกอร์</div>
+          <div className="card-header">ปริ้นสติ๊กเกอร์ by lekjunks</div>
           <div className="card-body">
             <form onSubmit={this.handleSubmit}>
               <div className="form-group">
