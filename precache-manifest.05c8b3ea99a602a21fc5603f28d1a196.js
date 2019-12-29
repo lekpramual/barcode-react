@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc6b95012579a422516d82bb79304d46",
+    "revision": "58ad8d32339524636c917c253de6d075",
     "url": "/barcode-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barcode-react/static/css/2.cc034990.chunk.css"
   },
   {
-    "revision": "4316d1db279f521bfec7",
+    "revision": "6c5b6af2554cce63ee67",
     "url": "/barcode-react/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barcode-react/static/js/2.a02723d2.chunk.js"
   },
   {
-    "revision": "4316d1db279f521bfec7",
-    "url": "/barcode-react/static/js/main.3361f052.chunk.js"
+    "revision": "6c5b6af2554cce63ee67",
+    "url": "/barcode-react/static/js/main.5047f35a.chunk.js"
   },
   {
     "revision": "5cf802a80d811155bc71",
