@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/barcode-react/static/css/main.2cce8147.chunk.css",
-    "main.js": "/barcode-react/static/js/main.abb1a5da.chunk.js",
-    "main.js.map": "/barcode-react/static/js/main.abb1a5da.chunk.js.map",
+    "main.js": "/barcode-react/static/js/main.32701651.chunk.js",
+    "main.js.map": "/barcode-react/static/js/main.32701651.chunk.js.map",
     "runtime~main.js": "/barcode-react/static/js/runtime~main.8955b5bc.js",
     "runtime~main.js.map": "/barcode-react/static/js/runtime~main.8955b5bc.js.map",
-    "static/css/2.cc034990.chunk.css": "/barcode-react/static/css/2.cc034990.chunk.css",
-    "static/js/2.5c616c5e.chunk.js": "/barcode-react/static/js/2.5c616c5e.chunk.js",
-    "static/js/2.5c616c5e.chunk.js.map": "/barcode-react/static/js/2.5c616c5e.chunk.js.map",
+    "static/css/2.4c0dc63d.chunk.css": "/barcode-react/static/css/2.4c0dc63d.chunk.css",
+    "static/js/2.ecfe5083.chunk.js": "/barcode-react/static/js/2.ecfe5083.chunk.js",
+    "static/js/2.ecfe5083.chunk.js.map": "/barcode-react/static/js/2.ecfe5083.chunk.js.map",
     "index.html": "/barcode-react/index.html",
-    "precache-manifest.456b32fb3bcf24587ee519cafd1de656.js": "/barcode-react/precache-manifest.456b32fb3bcf24587ee519cafd1de656.js",
+    "precache-manifest.8b314af019c01ea7161c9bc6ef4e279e.js": "/barcode-react/precache-manifest.8b314af019c01ea7161c9bc6ef4e279e.js",
     "service-worker.js": "/barcode-react/service-worker.js",
-    "static/css/2.cc034990.chunk.css.map": "/barcode-react/static/css/2.cc034990.chunk.css.map",
+    "static/css/2.4c0dc63d.chunk.css.map": "/barcode-react/static/css/2.4c0dc63d.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/barcode-react/static/css/main.2cce8147.chunk.css.map"
   }
 }
